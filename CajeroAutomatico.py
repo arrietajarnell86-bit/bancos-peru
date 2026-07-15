@@ -3,14 +3,14 @@
 # Autor: (jarnell enrrique arrieta cavero)
 # ===========================================
 
-saldo = 20000
-pin_correcto = "9012"
+saldo = 6900
+pin_correcto = "3456"
 
 print("===================================")
-print("     CAJERO BANCO INTERBANK")
+print("     CAJERO DEL BANCO BBVA")
 print("===================================")
 
-pin = input("Ingrese PIN: ")
+pin = input("porfavor Ingrese PIN: ")
 
 if pin == pin_correcto:
 
